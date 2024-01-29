@@ -76,9 +76,42 @@ od -c <fileName>     // ASCII character format
 
 ![Screenshot (90)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/40780cd7-ea1c-45b9-af60-093b662244dc)
 30.tr singkatan dari menerjemahkan/translate
+![Screenshot (91)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/7f7e900c-5ed9-40d7-9736-ea8201d97c1e)
+31.touch untuk membuat file baru
+32.cp untuk menyalin file
+33.cat untuk melihat isi file
 
+![Screenshot (92)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/38570f14-2169-4940-815a-17254f06edf9)
+32.group add untuk membuat grup
+33.chmod mengganti izin file
 
+![Screenshot (94)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/7dd5fdfc-ebbd-4df5-86d7-e38485b0671d)
+34.top manampilkan penggunaan sistem secara real time
 
+![Screenshot (95)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/3bb330e7-cddc-42a1-8702-ec97a73cdf61)
+35.systemctl mengelola layanan sistem
+
+![Screenshot (96)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/a301c30d-4c3b-4999-816b-053268424f7a)
+36.scp menyalin file dari server ke ssh
+
+![Screenshot (97)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/42e3f893-553c-45de-9e2f-a7fdcac52cfb)
+37.useradd menambahkan pengguna
+38.chown mengganti kepemilikan
+39.curl menunduh file dari internet
+40.ss menampilkan jaringan
+41.ssh menakses remote server
+![Screenshot (98)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/48b1436f-8bac-45d5-911e-904b0260a9c5)
+
+42.userdel menghappus pengguna
+43.groupdel menghapus group
+44.du menampilkan penggunnaan ruang disc
+45ps menampilkan proses yg berjalan
+![Screenshot (99)](https://github.com/xponzzz/tugas-2-pso/assets/118705179/b39d9618-b332-469a-a9b0-6c782e58a328)
+46.pwd menampilkan direktori
+47.exit keluar dari terminal
+48.ls manampilkan daftar file
+49.vi teks editor
+50.find mencari file
 
 
 
